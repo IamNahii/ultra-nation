@@ -1,0 +1,8 @@
+.country-info {
+    border: 2px solid green;
+    margin: 5px;
+    padding: 10px;
+}
+.country-info img {
+    height: 80px;
+}
